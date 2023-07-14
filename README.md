@@ -6,7 +6,7 @@
 
 O objetivo deste pipeline é utilizar genomas anotados e depositados no Genbank, hospedado no NCBI, de bactérias que estão relacionadas à promoção de crescimento de plantas, para auxiliar na análise \textit{in silico} do genoma das cepas \textit{Bacillus velezensis} LABIMs, que são anotações genômicas disponibilizadas pela Universidade Estadual de Londrina (UEL) para que, a partir das análises realizadas, construir um banco de dados de genes relacionados a promoção de crescimento em plantas, a fim de corroborar com estudos futuros nesta área de pesquisa. 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### A sequência de scripts a serem compilados neste pipeline é: 
 
 1. download_e_organizacao_genomas.py
