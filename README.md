@@ -15,15 +15,19 @@ O objetivo deste pipeline é utilizar genomas anotados e depositados no Genbank,
 4. comparacao_genomas.py
 5. construcao_banco_AgroBioTech.py
 
-Para compilar o script 1, recomenda-se utilizar um cluster. Nesta pesquisa, foi utilizado os equipamentos do Laboratório Multiusuários CCCT-CP, que utiliza o software SLURM para o gerenciamento de filas de trabalho. Utilizamos o script shell "script_python_quali.sh" para compilar o script 1.
+Observações:
+
+- Para compilar o script 1, recomenda-se utilizar um cluster. Nesta pesquisa, foi utilizado os equipamentos do Laboratório Multiusuários CCCT-CP, que utiliza o software SLURM para o gerenciamento de filas de trabalho. Utilizamos o script shell "script_python_quali.sh" para compilar o script 1.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #### Bibliotecas Python e softwares necessários:
 
-1. Biblioteca Biopython - https://biopython.org/wiki/Download
-2. BLAST+ - https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+1. Python - https://www.python.org/downloads/
+2. Biblioteca Biopython - https://biopython.org/wiki/Download
+3. BLAST+ - https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+   
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
