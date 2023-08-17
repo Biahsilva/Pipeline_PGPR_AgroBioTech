@@ -1,0 +1,728 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db></BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>WP_014471118.1 MULTISPECIES: LysR substrate-binding domain-containing protein [Bacillus]</BlastOutput_query-def>
+  <BlastOutput_query-len>302</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>WP_014471118.1 MULTISPECIES: LysR substrate-binding domain-containing protein [Bacillus]</Iteration_query-def>
+  <Iteration_query-len>302</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_014471118.1 locus_tag: NG745_17265 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: LysR substrate-binding domain-containing protein protein_id: USQ53343.1</Hit_def>
+  <Hit_accession>Subject_5477</Hit_accession>
+  <Hit_len>302</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>608.986</Hsp_bit-score>
+      <Hsp_score>1569</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>302</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>302</Hsp_align-len>
+      <Hsp_qseq>MELRHLQYFIAVAEELHFGKAALRLNMTQPPLSQQIKQLEKEVGVTLLKRTKRVVELSAAGESFLKHSRNAIEQIDKAIEMAQRTARGELGRLVVGFVGSATYEFLPPIIREFREKFPSVKLDLREISSFRQQEELLKGNIDIGILHPPLQHSALHMEKVQSSPCILALPKQHPLTAKQTIDIQDLKNQPIITLAKETWPTLYLEFVNFCEQAGFKPKIVQEATEYQMVIGLVSAGIGVTFVPSSAKKLFNLEVAYRDINQVQLTAEWVIAYRKDNQNPILKHFLEIMNKRQALLQADKENA</Hsp_qseq>
+      <Hsp_hseq>MELRHLQYFIAVAEELHFGKAALRLNMTQPPLSQQIKQLEKEVGVTLLKRTKRVVELSAAGESFLKHSRNAIEEIDKAIEMAQRTARGELGRLVVGFVGSATYEFLPPIIREFREKFPSVKLDLREISSFRQQEELLKGNIDIGILHPPLQHSALHMEKVQSSPCILALPKQHPLTAKQTIDIQDLKNEPIITLSKETWPTLYLEFVNYCEQAGFKPKIVQEATEYQMVIGLVSAGIGMTFVPSSAKKLFNLEVAYRGINQVQLTAEWVIAYRKDNQNPILKHFLDIMNKRQALLQADKENA</Hsp_hseq>
+      <Hsp_midline>MELRHLQYFIAVAEELHFGKAALRLNMTQPPLSQQIKQLEKEVGVTLLKRTKRVVELSAAGESFLKHSRNAIE+IDKAIEMAQRTARGELGRLVVGFVGSATYEFLPPIIREFREKFPSVKLDLREISSFRQQEELLKGNIDIGILHPPLQHSALHMEKVQSSPCILALPKQHPLTAKQTIDIQDLKN+PIITL+KETWPTLYLEFVN+CEQAGFKPKIVQEATEYQMVIGLVSAGIG+TFVPSSAKKLFNLEVAYR INQVQLTAEWVIAYRKDNQNPILKHFL+IMNKRQALLQADKENA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>87</Statistics_hsp-len>
+      <Statistics_eff-space>350172435</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>WP_011996289.1 MULTISPECIES: M20 peptidase aminoacylase family protein [Bacillus amyloliquefaciens group]</Iteration_query-def>
+  <Iteration_query-len>373</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_017419358.1 locus_tag: NG745_01565 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: M20 peptidase aminoacylase family protein protein_id: USQ54049.1</Hit_def>
+  <Hit_accession>Subject_3913</Hit_accession>
+  <Hit_len>373</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>764.607</Hsp_bit-score>
+      <Hsp_score>1973</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>373</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>373</Hsp_align-len>
+      <Hsp_qseq>MNRLTAHEKQVIMDIFDHLHANPEVSWKEYQTTEYLTEKLKEAGCRTRTFDDCTGVVGEIGEGSPVVAVRADIDALWQEVDGVFQANHSCGHDSHMTMALGTMMLLKSQPKLPKGTIRFIFQPAEEKGGGALKMIEKGVLDDVDFLYGVHVRPVQETANGRCAPSILHGSSQHIEGLIIGEEAHGARPHLGLNSIEIAALLVQKLSFIHLDPGIPHSVKMTKLQAGGESSNIIPGKASFSLDLRAQTNAAMEKLTAETERACEAAAAAFGAKIELQKEHSLPAAERNKEAEAIMASAISGILGEEYVDEPLVTTGGEDFHFYGLKVPNLKTTMLGLGCGLEPGLHHPQMTFDRSAIFTGVEILTAAVLKSFEA</Hsp_qseq>
+      <Hsp_hseq>MNRLTAHEKQVIMDIFDHLHANPEVSWKEYQTTEYLTEKLKEAGCRTRTFDDCTGVVGEIGEGSPVVAVRADIDALWQEVDGVFQANHSCGHDSHMTMALGTMMLLKSQPKLPKGTIRFIFQPAEEKGGGALKMIEKGVLDDVDFLYGVHVRPVQETANGRCAPSILHGSSQHIEGLIIGEESHGARPHLGLNSIEIAALLVQKLSFIHLDPGIPHSVKMTKLQAGGESSNIIPGKASFSLDLRAQTNAAMEKLTAETERACEAAAAAFGAKIELQKEHSLPAAERNKEAEAIMASAISGILGEEHVDEPLVTTGGEDFHFYGLKVPNLKTTMLGLGCGLEPGLHHPQMTFDRSAIFTGIEILTAAVLKSFEA</Hsp_hseq>
+      <Hsp_midline>MNRLTAHEKQVIMDIFDHLHANPEVSWKEYQTTEYLTEKLKEAGCRTRTFDDCTGVVGEIGEGSPVVAVRADIDALWQEVDGVFQANHSCGHDSHMTMALGTMMLLKSQPKLPKGTIRFIFQPAEEKGGGALKMIEKGVLDDVDFLYGVHVRPVQETANGRCAPSILHGSSQHIEGLIIGEE+HGARPHLGLNSIEIAALLVQKLSFIHLDPGIPHSVKMTKLQAGGESSNIIPGKASFSLDLRAQTNAAMEKLTAETERACEAAAAAFGAKIELQKEHSLPAAERNKEAEAIMASAISGILGEE+VDEPLVTTGGEDFHFYGLKVPNLKTTMLGLGCGLEPGLHHPQMTFDRSAIFTG+EILTAAVLKSFEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>89</Statistics_hsp-len>
+      <Statistics_eff-space>458210996</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>WP_012117684.1 MULTISPECIES: cytochrome P450 [Bacillus amyloliquefaciens group]</Iteration_query-def>
+  <Iteration_query-len>398</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_017417907.1 locus_tag: NG745_09445 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: cytochrome P450 protein_id: USQ55443.1</Hit_def>
+  <Hit_accession>Subject_4708</Hit_accession>
+  <Hit_len>398</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>817.765</Hsp_bit-score>
+      <Hsp_score>2111</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>394</Hsp_identity>
+      <Hsp_positive>397</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>MTADLSIAHPSLHADSGFWNDPYPFYDKLRSIDPVYKGTVLKYPGWYVTGYKEAAAILKDIRFKNRIPLPEASTKYQNLSHIQHDMLLFKNQSDHKRMRMLIGKEFTAKTAESLRPCIKETVHDLLDQVQIKKTADLVSEFAFPLASLIIAEILGVPKEERYQFRQWTADVIQAIDLTRSRKTLVRASDTAGRLTSYFRDLIHKREAHPQQDLISRFIMEEQLSKEEVLATCILLVIAGHETTVNLISNGVFTLLKHPEQLSALRENPSLIETAVEECLRYDSPAQLTARTASEDCEINGKTIKKGEQVYILLGAANRDPSIFDQPHKMDIQRKPNPHLAFGRNAHFCIGSSLARIEAQIAILTLFERMPKLRLAAHRLEYRKLIGFRSLKELPVVIG</Hsp_qseq>
+      <Hsp_hseq>MTADLSIAHPSLHADSDFWNDPYPFYDKLRSIDPVYKGTVLKYPGWYVTGYKEAAAILKDIRFKNRIPLPEASTKYQNLSHIQHDMLLFKNQSDHKRMRMLIGKEFTAKTAESLRPCIKKTVHDLLDQVQIKKTADLVSEFAFPLASLIIAEILGVPKEERYQFRQWTADVIQAIDLTRSRKTLVRASDTAGRLTSYFRDLIHKREAHPQQDLISRFIMEEQLSKEEVLATCILLVIAGHETTVNLISNGVFTLLKHPEQLSALRENPSLIETAVEECLRYDSPAQLTARTASEDCEINGKTIKKGEQVYILLGAANRDPSIFDQPHKMDIQRKPNPHLAFGKNAHFCIGSSLARIEAQIAILTLFERIPKLRLAAHRLEYRKLIGFRSLKELPVVIG</Hsp_hseq>
+      <Hsp_midline>MTADLSIAHPSLHADS FWNDPYPFYDKLRSIDPVYKGTVLKYPGWYVTGYKEAAAILKDIRFKNRIPLPEASTKYQNLSHIQHDMLLFKNQSDHKRMRMLIGKEFTAKTAESLRPCIK+TVHDLLDQVQIKKTADLVSEFAFPLASLIIAEILGVPKEERYQFRQWTADVIQAIDLTRSRKTLVRASDTAGRLTSYFRDLIHKREAHPQQDLISRFIMEEQLSKEEVLATCILLVIAGHETTVNLISNGVFTLLKHPEQLSALRENPSLIETAVEECLRYDSPAQLTARTASEDCEINGKTIKKGEQVYILLGAANRDPSIFDQPHKMDIQRKPNPHLAFG+NAHFCIGSSLARIEAQIAILTLFER+PKLRLAAHRLEYRKLIGFRSLKELPVVIG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>89</Statistics_hsp-len>
+      <Statistics_eff-space>498546471</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_4</Iteration_query-ID>
+  <Iteration_query-def>WP_012116949.1 MULTISPECIES: GNAT family N-acetyltransferase [Bacillus amyloliquefaciens group]</Iteration_query-def>
+  <Iteration_query-len>152</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_003229879.1 locus_tag: NG745_02950 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: GNAT family N-acetyltransferase protein_id: USQ54296.1</Hit_def>
+  <Hit_accession>Subject_4069</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>305.064</Hsp_bit-score>
+      <Hsp_score>780</Hsp_score>
+      <Hsp_evalue>3.57397e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>152</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>152</Hsp_align-len>
+      <Hsp_qseq>MTIEIRTVTEENRADILALHVRESQTSFIETVEECLQDAEDCRHYQPAGLYVNGELVGFAMYGWFPEYDEENENGRVWLDRFFIDERYQGRGLGKLLLDALIRHLVRIYDCRRIYLSLFEDNVHALRLYQKFGFLFNGELDSNGEKVMVKEL</Hsp_qseq>
+      <Hsp_hseq>MTIEIRAVTEENRADILALHVSESQTSFIETAEECLQDAEDCRHYQPAGLYVNGELVGFAMYGWFPEYDEENENGRVWLDRFFIDERYQGRGLGKLLLDALIRHLVRIYDCRRIYLSLFEDNVHALRLYQKFGFLFNGELDFNGEKVMVKEL</Hsp_hseq>
+      <Hsp_midline>MTIEIR VTEENRADILALHV ESQTSFIET EECLQDAEDCRHYQPAGLYVNGELVGFAMYGWFPEYDEENENGRVWLDRFFIDERYQGRGLGKLLLDALIRHLVRIYDCRRIYLSLFEDNVHALRLYQKFGFLFNGELD NGEKVMVKEL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>79</Statistics_hsp-len>
+      <Statistics_eff-space>123360437</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_5</Iteration_query-ID>
+  <Iteration_query-def>WP_012117811.1 MULTISPECIES: glutathione peroxidase [Bacillus amyloliquefaciens group]</Iteration_query-def>
+  <Iteration_query-len>162</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_012117811.1 locus_tag: NG745_10475 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: glutathione peroxidase protein_id: USQ52160.1</Hit_def>
+  <Hit_accession>Subject_4843</Hit_accession>
+  <Hit_len>162</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>338.191</Hsp_bit-score>
+      <Hsp_score>866</Hsp_score>
+      <Hsp_evalue>6.14705e-122</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>162</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>162</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>162</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>162</Hsp_align-len>
+      <Hsp_qseq>MTIYDINVRTITGEDMTLSAYRGKVMIIVNTASKCGFTSQLKQLQELYDTYREEGLEILGFPCNQFMNQEPGNEAEIQEFCVKNYGVTFPMFAKVDVNGADAHPLFTYLTEQAKGMLGTKAVKWNFTKFIVDRNGKVTGRFSPNVNPKELEDTVQRLLADKR</Hsp_qseq>
+      <Hsp_hseq>MTIYDINVQTITGEDMTLSAYRGKVMIIVNTASKCGFTSQLKQLQELYDTYREEGLEILGFPCNQFMNQEPGNEAEIQEFCVKNYGVTFPMFAKVDVNGADAHPLFTYLTEQAKGMLGTKAVKWNFTKFIVDRNGKVTGRFSPNVNPKELEDTVQRLLADKR</Hsp_hseq>
+      <Hsp_midline>MTIYDINV+TITGEDMTLSAYRGKVMIIVNTASKCGFTSQLKQLQELYDTYREEGLEILGFPCNQFMNQEPGNEAEIQEFCVKNYGVTFPMFAKVDVNGADAHPLFTYLTEQAKGMLGTKAVKWNFTKFIVDRNGKVTGRFSPNVNPKELEDTVQRLLADKR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>80</Statistics_hsp-len>
+      <Statistics_eff-space>137942368</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_6</Iteration_query-ID>
+  <Iteration_query-def>NP_388484.1 chaperonin large subunit [Bacillus subtilis subsp. subtilis str. 168]</Iteration_query-def>
+  <Iteration_query-len>544</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>groL</Hit_id>
+  <Hit_def>groL Ag75 locus_tag: NG745_03180 inference: COORDINATES: similar to AA sequence:RefSeq:NP_388484.1 note: 60 kDa chaperone family; promotes refolding of misfolded polypeptides especially under stressful conditions; forms two stacked rings of heptamers to form a barrel-shaped 14mer; ends can be capped by GroES; misfolded proteins enter the barrel where they are refolded when GroES binds; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005515 - protein binding [Evidence IEA]; GO_function: GO:0016887 - ATP hydrolysis activity [Evidence IEA]; GO_process: GO:0006457 - protein folding [Evidence IEA] codon_start: 1 transl_table: 11 product: chaperonin GroEL protein_id: USQ54335.1</Hit_def>
+  <Hit_accession>Subject_6056</Hit_accession>
+  <Hit_len>544</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1044.26</Hsp_bit-score>
+      <Hsp_score>2699</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>544</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>544</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>532</Hsp_identity>
+      <Hsp_positive>539</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>544</Hsp_align-len>
+      <Hsp_qseq>MAKEIKFSEEARRAMLRGVDALADAVKVTLGPKGRNVVLEKKFGSPLITNDGVTIAKEIELEDAFENMGAKLVAEVASKTNDVAGDGTTTATVLAQAMIREGLKNVTAGANPVGVRKGMEQAVAVAIENLKEISKPIEGKESIAQVAAISAADEEVGSLIAEAMERVGNDGVITIEESKGFTTELEVVEGMQFDRGYASPYMVTDSDKMEAVLDNPYILITDKKITNIQEILPVLEQVVQQGKPLLLIAEDVEGEALATLVVNKLRGTFNAVAVKAPGFGDRRKAMLEDIAVLTGGEVITEDLGLDLKSTQIAQLGRASKVVVTKENTTIVEGAGETDKISARVTQIRAQVEETTSEFDREKLQERLAKLAGGVAVIKVGAATETELKERKLRIEDALNSTRAAVEEGIVSGGGTALVNVYNKVAAVEAEGDAQTGINIVLRALEEPIRQIAHNAGLEGSVIVERLKNEEIGVGFNAATGEWVNMIEKGIVDPTKVTRSALQNAASVAAMFLTTEAVVADKPEENGGGAGMPDMGGMGGMGGMM</Hsp_qseq>
+      <Hsp_hseq>MAKDIKFSEEARRAMLRGVDALADAVKVTLGPKGRNVVLEKKFGSPLITNDGVTIAKEIELEDAFENMGAKLVAEVASKTNDVAGDGTTTATVLAQAMIREGLKNVTAGANPVGVRKGMEQAVTVAIENLKEISKPIEGKESIAQVAAISAADEEVGSLIAEAMERVGNDGVITIEESKGFTTELEVVEGMQFDRGYASPYMVTDSDKMEAVLDNPYILITDKKITNIQEILPVLEQVVQQGKPLLLIAEDVEGEALATLVVNKLRGTFNAVAVKAPGFGDRRKAMLEDISVLTGGEVITEDLGLDLKSTEIGQLGRASKVVVTKENTTIVEGAGDTEKIAARVNQIRAQVEETTSEFDREKLQERLAKLAGGVAVIKVGAATETELKERKLRIEDALNSTRAAVEEGIVSGGGTALVNVYNKVAAVEAEGDAQTGINIVLRALEEPIRQIAHNAGLEGSVIVERLKNEKIGVGFNAATGEWVNMIEKGIVDPTKVTRSALQNAASVAAMLLTTEAVVADKPEENAGGAGMPDMGGMGGMGGMM</Hsp_hseq>
+      <Hsp_midline>MAK+IKFSEEARRAMLRGVDALADAVKVTLGPKGRNVVLEKKFGSPLITNDGVTIAKEIELEDAFENMGAKLVAEVASKTNDVAGDGTTTATVLAQAMIREGLKNVTAGANPVGVRKGMEQAV VAIENLKEISKPIEGKESIAQVAAISAADEEVGSLIAEAMERVGNDGVITIEESKGFTTELEVVEGMQFDRGYASPYMVTDSDKMEAVLDNPYILITDKKITNIQEILPVLEQVVQQGKPLLLIAEDVEGEALATLVVNKLRGTFNAVAVKAPGFGDRRKAMLEDI+VLTGGEVITEDLGLDLKST+I QLGRASKVVVTKENTTIVEGAG+T+KI+ARV QIRAQVEETTSEFDREKLQERLAKLAGGVAVIKVGAATETELKERKLRIEDALNSTRAAVEEGIVSGGGTALVNVYNKVAAVEAEGDAQTGINIVLRALEEPIRQIAHNAGLEGSVIVERLKNE+IGVGFNAATGEWVNMIEKGIVDPTKVTRSALQNAASVAAM LTTEAVVADKPEEN GGAGMPDMGGMGGMGGMM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>92</Statistics_hsp-len>
+      <Statistics_eff-space>718898768</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_7</Iteration_query-ID>
+  <Iteration_query-def>URM43879.1 scyllo-inositol 2-dehydrogenase (NADP(+)) IolW [Bacillus velezensis]</Iteration_query-def>
+  <Iteration_query-len>346</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_017418915.1 locus_tag: NG745_16005 note: Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0000166 - nucleotide binding [Evidence IEA] codon_start: 1 transl_table: 11 product: oxidoreductase protein_id: USQ53116.1</Hit_def>
+  <Hit_accession>Subject_5326</Hit_accession>
+  <Hit_len>346</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>709.523</Hsp_bit-score>
+      <Hsp_score>1830</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>346</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>346</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>345</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>346</Hsp_align-len>
+      <Hsp_qseq>MKTIQVGILGYGLSGKVFHAPLLDVLDDYQIKKVMTSRTDEVKRDLPGAEAVRAIEDITGDPDIDLVIVTTPSGIHYESAMKCLLAGKHTVVEKPMTATSAEAEELSRTAEDKGVLLSVYHNRRWDNDFLTIQKLIRDGALQDIHTYQVSYDLYNPVVQEKWREKNGPATGTLYDLGSHIIDQTLLLFGMPESVTAHVMKQRDNSETVDNFLAALHYGKLQVILQSGSMNAASGPRYQIHGRNASFIKYGMDGQEDALSAGKKPIDDSWGADDPDNFGELTIAADEKRHTETIPSENGSYLTYYKLLADSILNGKPLPVTAKEGIDVIRVIEAAMKSSEQKRTIAL</Hsp_qseq>
+      <Hsp_hseq>MKTIQVGILGYGLSGKVFHAPLLDVLDDYQIKKVMTSRTDEVKRDLPGAEAVRAIEDITGDPDIDLVIVTTPSGMHYESAMKCLLAGKHTVVEKPMTATSAEAEELRRTAENKGVLLSVYHNRRWDNDFLTIQKLIRDGALQDIHTYQVSYDLYNPVVQEKWREKNGPATGTLYDLGSHIIDQTLLLFGMPESVTAHVMKQRDNSETVDNFLAALHYGKLQVILQSGSMNAASGPRYQIHGRNASFIKYGMDGQEDALSAGKKPIDDSWGADDPDNFGELTIAADEKRHTETIPSENGSYLTYYKLLADSILNGKPLPVTAKEGIDVIRVIEAAMKSSEQKRTIAL</Hsp_hseq>
+      <Hsp_midline>MKTIQVGILGYGLSGKVFHAPLLDVLDDYQIKKVMTSRTDEVKRDLPGAEAVRAIEDITGDPDIDLVIVTTPSG+HYESAMKCLLAGKHTVVEKPMTATSAEAEEL RTAE+KGVLLSVYHNRRWDNDFLTIQKLIRDGALQDIHTYQVSYDLYNPVVQEKWREKNGPATGTLYDLGSHIIDQTLLLFGMPESVTAHVMKQRDNSETVDNFLAALHYGKLQVILQSGSMNAASGPRYQIHGRNASFIKYGMDGQEDALSAGKKPIDDSWGADDPDNFGELTIAADEKRHTETIPSENGSYLTYYKLLADSILNGKPLPVTAKEGIDVIRVIEAAMKSSEQKRTIAL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>88</Statistics_hsp-len>
+      <Statistics_eff-space>418234512</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_8</Iteration_query-ID>
+  <Iteration_query-def>WP_012118228.1 MULTISPECIES: BCCT family transporter [Bacillus]</Iteration_query-def>
+  <Iteration_query-len>511</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_003152310.1 locus_tag: NG745_14160 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: BCCT family transporter protein_id: USQ52807.1</Hit_def>
+  <Hit_accession>Subject_5131</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1023.08</Hsp_bit-score>
+      <Hsp_score>2644</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>511</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>511</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>510</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>511</Hsp_align-len>
+      <Hsp_qseq>MKKNISSVFWIVIVITAAAVLWGAISPDSLQQVTDTAQKFITDSFGWYYLLVVSIFVGFCLFLIVSPIGTIKLGKPGEKPEFGLLSWFAMLFSAGMGIGLVFYGAAEPISHYAISSPSGETETPQAFRDALRYTFFHWGLHAWAIYAVVALCIAYFQFRKDAPGLISSTLTPLLGDKVNGPIGKAIDCIAVFATVVGVATSLGLGATQINGGLHYLFGIPKTFSIQLILIAVVTVLFLISAWSGIGKGIKYLSNTNMALAAILMIFMLIAGPTVLIMNSFTDSIGQYIQNIVQMSFRLSPNDPQKREWINSWTIFYWAWWISWSPFVGIFIARVSRGRTIREFLIGVLVTPCILAFLWFAIFGVSAMDLQQKGVFNVAGMSTDTMLFGALSHYPLTMVTSVLTLVLIAVFFITSADSATFVLGMQTSYGSLDPSNRVKIIWGVIQSAVAAVLLYSGGLAALQNTAILAAVPFSVVILLMIVSLYKSLASERKGIKQAEKYQKPRSPRVKKA</Hsp_qseq>
+      <Hsp_hseq>MKKNISSVFWIVIVITAAAVLWGAISPDSLQQVTDTAQKFITDSFGWYYLLVVSIFVGFCLFLIVSPIGTIKLGKPGEKPEFGLLSWFAMLFSAGMGIGLVFYGAAEPISHYAISSPSGETETPQAFRDALRYTFFHWGLHAWAIYAVVALCIAYFQFRKDAPGLISSTLTPLLGDKVNGPIGKAIDCIAVFATVVGVATSLGLGATQINGGLHYLFGIPKTFSIQLILIAVVTVLFLISAWSGIGKGIKYLSNTNMALAAILMIFMLIAGPTVLIMNSFTDSIGQYIQNIVQMSFRLSPNDPQKREWINSWTIFYWAWWISWSPFVGIFIARVSRGRTIREFLIGVLVTPCILAFLWFAIFGVSAMDLQQKGVFNVAGMSTDTMLFGALSHYPLTMVTSVLTLVLIAVFFITSADSATFVLGMQTSYGSLDPSNRVKIIWGIIQSAVAAVLLYSGGLAALQNTAILAAVPFSVVILLMIVSLYKSLASERKGIKQAEKYQKPRSPRVKKA</Hsp_hseq>
+      <Hsp_midline>MKKNISSVFWIVIVITAAAVLWGAISPDSLQQVTDTAQKFITDSFGWYYLLVVSIFVGFCLFLIVSPIGTIKLGKPGEKPEFGLLSWFAMLFSAGMGIGLVFYGAAEPISHYAISSPSGETETPQAFRDALRYTFFHWGLHAWAIYAVVALCIAYFQFRKDAPGLISSTLTPLLGDKVNGPIGKAIDCIAVFATVVGVATSLGLGATQINGGLHYLFGIPKTFSIQLILIAVVTVLFLISAWSGIGKGIKYLSNTNMALAAILMIFMLIAGPTVLIMNSFTDSIGQYIQNIVQMSFRLSPNDPQKREWINSWTIFYWAWWISWSPFVGIFIARVSRGRTIREFLIGVLVTPCILAFLWFAIFGVSAMDLQQKGVFNVAGMSTDTMLFGALSHYPLTMVTSVLTLVLIAVFFITSADSATFVLGMQTSYGSLDPSNRVKIIWG+IQSAVAAVLLYSGGLAALQNTAILAAVPFSVVILLMIVSLYKSLASERKGIKQAEKYQKPRSPRVKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>91</Statistics_hsp-len>
+      <Statistics_eff-space>671214180</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_9</Iteration_query-ID>
+  <Iteration_query-def>WP_017419144.1 MULTISPECIES: PhzF family phenazine biosynthesis isomerase [Bacillus]</Iteration_query-def>
+  <Iteration_query-len>294</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_015239425.1 locus_tag: NG745_04215 note: Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003824 - catalytic activity [Evidence IEA]; GO_process: GO:0009058 - biosynthetic process [Evidence IEA] codon_start: 1 transl_table: 11 product: PhzF family phenazine biosynthesis isomerase protein_id: USQ54505.1</Hit_def>
+  <Hit_accession>Subject_4203</Hit_accession>
+  <Hit_len>294</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>591.267</Hsp_bit-score>
+      <Hsp_score>1523</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>293</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>283</Hsp_identity>
+      <Hsp_positive>287</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>293</Hsp_align-len>
+      <Hsp_qseq>MKQATVFKYEAFSDIPDLGNPAGIVFNGDDYSDEEMQMIAEMAGYNETSFLCKSGEADLRIRYFTPGHEMNLCGHATVASLYALIEKGRLQADQAYQIETKAGILPVKAAERNGRVYITLEQAPPQFLPFTGDKEKLAASLGITAEDFHSELPIVYGSTGIWTLIVPLRSLKASRNMVPDNAQFPAILRDLPKASVHPFSLETVHPESDLHGRHFSSPFSGTTEDPVTGTASGVMAAYMRQYGGSEAECLTIEQGHEIGKDGKVEIRITEDNEKMNIEMTGTAVYAETINFQL</Hsp_qseq>
+      <Hsp_hseq>MKQATVFKYEAFSNIPDLGNPAGIVFNGDDYSDEEMQMIAEMAGYNETSFLCKSGEADLRIRYFTPGHEMNLCGHATVASLYALIEKGRLQADQTYQIETKAGILPAKAAERNGRVYITLEQAPPQFLPFTGDKEKLAASLGITAEDFHSGLPIVYGSTGIWTLIVPLRSLKASRNMVPDNAQFPAILRDLPKASVHPFSLETVHPESDLHGRHFSSPFSGTTEDPVTGTASGVMAAYMRQYGGSEAECLTIEQGQEIGKDGKVEIRIAEENGEMNIKMTGTAVYAETINFQL</Hsp_hseq>
+      <Hsp_midline>MKQATVFKYEAFS+IPDLGNPAGIVFNGDDYSDEEMQMIAEMAGYNETSFLCKSGEADLRIRYFTPGHEMNLCGHATVASLYALIEKGRLQADQ YQIETKAGILP KAAERNGRVYITLEQAPPQFLPFTGDKEKLAASLGITAEDFHS LPIVYGSTGIWTLIVPLRSLKASRNMVPDNAQFPAILRDLPKASVHPFSLETVHPESDLHGRHFSSPFSGTTEDPVTGTASGVMAAYMRQYGGSEAECLTIEQG EIGKDGKVEIRI E+N +MNI+MTGTAVYAETINFQL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>87</Statistics_hsp-len>
+      <Statistics_eff-space>337142763</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_10</Iteration_query-ID>
+  <Iteration_query-def>WP_012117858.1 MULTISPECIES: phosphoribosylanthranilate isomerase [Bacillus]</Iteration_query-def>
+  <Iteration_query-len>217</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_012117858.1 locus_tag: NG745_10900 EC_number: 5.3.1.24 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: phosphoribosylanthranilate isomerase protein_id: USQ52232.1</Hit_def>
+  <Hit_accession>Subject_4890</Hit_accession>
+  <Hit_len>217</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>448.743</Hsp_bit-score>
+      <Hsp_score>1153</Hsp_score>
+      <Hsp_evalue>6.74439e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>217</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>217</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>217</Hsp_align-len>
+      <Hsp_qseq>MKKPEVKYCGIRSKRDYELAAASGADYLGFIFAASKRRVTPGEVRKWKEKVLTDKKHVGVFVNETIENIAQIASDLALDVIQLHGDESPEDARRLRPLVRSEIWKALHHGEGTLRQMAQFAPAVDGYVIDSSVKGMRGGTGIAFSWARVPLYRKQAQNANKRCFIAGGVNPETITGLLRSRPCGIDLASGIEKNGQKDQTLIRLLEERMNHYVSISK</Hsp_qseq>
+      <Hsp_hseq>MKKPEVKYCGIRSKRDYELAAASGADYLGFIFAASKRRVTPGEVRKWKEKVLTDKKHVGVFVNETIENIAQIASDLALDAIQLHGDESPEDARRLRPLVRSEIWKALHHGEGTLRQMAQFAPAVDGYVIDSSVKGMRGGTGIAFSWARVPLYRKQAQNANKRCFIAGGVNPETITGLLRSRPCGIDLASGIEKNGQKDQTLIRLLEERMNHYVSISK</Hsp_hseq>
+      <Hsp_midline>MKKPEVKYCGIRSKRDYELAAASGADYLGFIFAASKRRVTPGEVRKWKEKVLTDKKHVGVFVNETIENIAQIASDLALD IQLHGDESPEDARRLRPLVRSEIWKALHHGEGTLRQMAQFAPAVDGYVIDSSVKGMRGGTGIAFSWARVPLYRKQAQNANKRCFIAGGVNPETITGLLRSRPCGIDLASGIEKNGQKDQTLIRLLEERMNHYVSISK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>222344726</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_11</Iteration_query-ID>
+  <Iteration_query-def>WP_012118579.1 MULTISPECIES: UDP-glucose/GDP-mannose dehydrogenase family protein [Bacillus amyloliquefaciens group]</Iteration_query-def>
+  <Iteration_query-len>446</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_012118579.1 locus_tag: NG745_17040 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: UDP-glucose/GDP-mannose dehydrogenase family protein protein_id: USQ53301.1</Hit_def>
+  <Hit_accession>Subject_5446</Hit_accession>
+  <Hit_len>446</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>909.827</Hsp_bit-score>
+      <Hsp_score>2350</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>446</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>446</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>443</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>446</Hsp_align-len>
+      <Hsp_qseq>MKKIAVLGTGYVGLVSGTCFAEIGHHVTCCDINEAKIRSLQNGVIPIYEPGLEELAEKNVSAGRLSFTAGIEPAVKAADIIYIAVGTPMSKTGEADLTYIKAAAQTIGEQLNGYKIIVTKSTVPVGTGKLVYQIVSEASKGKYPFDVASNPEFLREGSAVRDTMQMERAVIGATSEHAASVIEELHKPFRTKIVKTNLESAEMIKYAANAFLAAKISFINDIANICERVGADISHVSEGVGLDSRIGNKFLQAGIGFGGSCFPKDTTALLHIANAAGYPFQMMEAVIETNQKQRVRITEKLNRAIGPLKGKTVAVLGLAFKPHTNDVRSAPALDIIASLKEQGAHVKAYDPIAIPEASAILGDGGIEYHTELYSAIKNADACLITTDWPEVKEMDLQRVKQLLKQPVIIDGRNMFPLEYMRVSGFTYHSVGRPAVHADRQIKELAR</Hsp_qseq>
+      <Hsp_hseq>MKKIAVLGTGYVGLVSGTCFAEIGHHVTCCDINEAKIRSLQNGVIPIYEPGLEELAEKNVSVGRLSFTAGIEPAVKAADIIYIAVGTPMSKTGEADLTYIKAAAQTIGEQLNGYKIIVTKSTVPVGTGKLVYQIVSKASKGKYPFDVASNPEFLREGSAVRDTMQMERAVIGATSEHAASVIEELHKPFRTKIVKTNLESAEMIKYAANAFLAAKISFINDIANICERVGADISHVSEGVGLDSRIGNKFLQAGIGFGGSCFPKDTTALLHIANAAGYPFQMMEAVIETNQKQRVRITEKLNRTIGPLKGKTVAVLGLAFKPHTNDVRSAPALDIITSLKEQGAHVKAYDPIAIPEASAILGDGGIEYHTELYSAIKNADACLITTDWPEVKEMDLQRVKQLLKQPVIIDGRNMFPLEYMRVSGFTYHSVGRPAVHADRQIKELAR</Hsp_hseq>
+      <Hsp_midline>MKKIAVLGTGYVGLVSGTCFAEIGHHVTCCDINEAKIRSLQNGVIPIYEPGLEELAEKNVS GRLSFTAGIEPAVKAADIIYIAVGTPMSKTGEADLTYIKAAAQTIGEQLNGYKIIVTKSTVPVGTGKLVYQIVS+ASKGKYPFDVASNPEFLREGSAVRDTMQMERAVIGATSEHAASVIEELHKPFRTKIVKTNLESAEMIKYAANAFLAAKISFINDIANICERVGADISHVSEGVGLDSRIGNKFLQAGIGFGGSCFPKDTTALLHIANAAGYPFQMMEAVIETNQKQRVRITEKLNR IGPLKGKTVAVLGLAFKPHTNDVRSAPALDII SLKEQGAHVKAYDPIAIPEASAILGDGGIEYHTELYSAIKNADACLITTDWPEVKEMDLQRVKQLLKQPVIIDGRNMFPLEYMRVSGFTYHSVGRPAVHADRQIKELAR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>90</Statistics_hsp-len>
+      <Statistics_eff-space>571655544</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>12</Iteration_iter-num>
+  <Iteration_query-ID>Query_12</Iteration_query-ID>
+  <Iteration_query-def>WP_011996282.1 MULTISPECIES: glucose 1-dehydrogenase [Bacillus amyloliquefaciens group]</Iteration_query-def>
+  <Iteration_query-len>259</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_014416838.1 locus_tag: NG745_01485 EC_number: 1.1.1.47 note: Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016491 - oxidoreductase activity [Evidence IEA] codon_start: 1 transl_table: 11 product: glucose 1-dehydrogenase protein_id: USQ54034.1</Hit_def>
+  <Hit_accession>Subject_3905</Hit_accession>
+  <Hit_len>259</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.865</Hsp_bit-score>
+      <Hsp_score>1361</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>259</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>257</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>259</Hsp_align-len>
+      <Hsp_qseq>MYQDLQGKTAIVTGSSKGIGKAIAERFGKERMNVVVNYLGDSAGAEEAADIIEKAGGRAVTVKADVSSEEGIQALFDAAQEHFGGVDVMVNNSGFNGTEAMPHEMSLEDWQRVIDVNVTGTFLGAKAALKHMLDRGKKGTVLNISSVHQQIPRPENVQYSASKGGIKMMTETMALNYADKGIRVNAIAPGTIATESNKDLEDETHKQAQLKKIPMNAFGKPEEVAAAAAWMVSEEASYVTGTTLFVDGGMTLYPSQLDR</Hsp_qseq>
+      <Hsp_hseq>MYQDLQGKTAIVTGSSKGIGKAIAERFGKERMNVVVNYLGDSAGAEEAADIIEKAGGRAVTVKADVSSEEGIQALFDAAQEHFGGVDVMVNNSGFNGAEAMPHEMSLEDWQRVIDVNVTGTFLGAKAALKHMLERGKKGTVLNISSVHQQIPRPENVQYSASKGGIKMMTETMALNYADKGIRVNAIAPGTIATESNKDLEDETHKQAQLKKIPMNAFGKPEEVAAAAAWMVSEEASYVTGTTLFVDGGMTLYPSQLDR</Hsp_hseq>
+      <Hsp_midline>MYQDLQGKTAIVTGSSKGIGKAIAERFGKERMNVVVNYLGDSAGAEEAADIIEKAGGRAVTVKADVSSEEGIQALFDAAQEHFGGVDVMVNNSGFNG EAMPHEMSLEDWQRVIDVNVTGTFLGAKAALKHML+RGKKGTVLNISSVHQQIPRPENVQYSASKGGIKMMTETMALNYADKGIRVNAIAPGTIATESNKDLEDETHKQAQLKKIPMNAFGKPEEVAAAAAWMVSEEASYVTGTTLFVDGGMTLYPSQLDR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>85</Statistics_hsp-len>
+      <Statistics_eff-space>286055826</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>13</Iteration_iter-num>
+  <Iteration_query-ID>Query_13</Iteration_query-ID>
+  <Iteration_query-def>BCU86156.1 regulatory protein YlbF [Bacillus velezensis]</Iteration_query-def>
+  <Iteration_query-len>149</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ricF</Hit_id>
+  <Hit_def>ricF Ag75 locus_tag: NG745_07740 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: YlbF family regulator protein_id: USQ55125.1</Hit_def>
+  <Hit_accession>Subject_6448</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.908</Hsp_bit-score>
+      <Hsp_score>777</Hsp_score>
+      <Hsp_evalue>6.56062e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>149</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>149</Hsp_align-len>
+      <Hsp_qseq>MYATIESVKLQREAEQLAGMILQSETAENYRDCYKRLREDEEAGRIIRSFMSVKEQYEDVQRFGKYHPDYREISRKMREMKRELDLNDKVAEFKKAETELQSLLDEISIELGTAVSEHVKVPTGNPYFDGLSSCGGGCGSGGGCGCKVS</Hsp_qseq>
+      <Hsp_hseq>MYATIESVKLQSEAEQLAGMILQSETAENYRDCYKRLREDEEAGRIIRSFMSVKEQYEDVQRFGKYHPDYREISRKMREMKRELDLNDKVAEFKKAETELQSLLDEISIELGTAVSEHVKVPTGNPYFDGLSSCGGGCGSGGGCGCKVS</Hsp_hseq>
+      <Hsp_midline>MYATIESVKLQ EAEQLAGMILQSETAENYRDCYKRLREDEEAGRIIRSFMSVKEQYEDVQRFGKYHPDYREISRKMREMKRELDLNDKVAEFKKAETELQSLLDEISIELGTAVSEHVKVPTGNPYFDGLSSCGGGCGSGGGCGCKVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>79</Statistics_hsp-len>
+      <Statistics_eff-space>118290830</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>14</Iteration_iter-num>
+  <Iteration_query-ID>Query_14</Iteration_query-ID>
+  <Iteration_query-def>URM46094.1 YmcA [Bacillus velezensis]</Iteration_query-def>
+  <Iteration_query-len>143</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ricA</Hit_id>
+  <Hit_def>ricA Ag75 locus_tag: NG745_08745 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: RicAFT regulatory complex protein RicA family protein protein_id: USQ55315.1</Hit_def>
+  <Hit_accession>Subject_6614</Hit_accession>
+  <Hit_len>143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>286.189</Hsp_bit-score>
+      <Hsp_score>731</Hsp_score>
+      <Hsp_evalue>5.2246e-102</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>143</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>143</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>143</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>MTLYSKKDIVQQARNLAKMISETEEVDFFKRAEAQINENEKVSAIINQIKTLQKQAVNLKHYEKLEALKQVESKIDALQEELEGIPIIQEFRDSQIEVNDLLQLVAHTISNQVTNEIITSTGGNLLTGETGSKVKHSNNSCSI</Hsp_qseq>
+      <Hsp_hseq>MTLYSKKDIVQQARNLAKMISETEEVDFFKRAEAQINENEKVSAIINQIKTLQKQAVNLKHYEKLEALKQVESKIDALQEELEGIPIIQEFRDSQIEVNDLLQLVAHTISNQVTNEIITSTGGNLLTGETGSKVKHSNNSCSI</Hsp_hseq>
+      <Hsp_midline>MTLYSKKDIVQQARNLAKMISETEEVDFFKRAEAQINENEKVSAIINQIKTLQKQAVNLKHYEKLEALKQVESKIDALQEELEGIPIIQEFRDSQIEVNDLLQLVAHTISNQVTNEIITSTGGNLLTGETGSKVKHSNNSCSI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>78</Statistics_hsp-len>
+      <Statistics_eff-space>110338410</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>15</Iteration_iter-num>
+  <Iteration_query-ID>Query_15</Iteration_query-ID>
+  <Iteration_query-def>URM44301.1 putative N-acetyltransferase YsnE [Bacillus velezensis]</Iteration_query-def>
+  <Iteration_query-len>152</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>Ag75</Hit_id>
+  <Hit_def>Ag75 inference: COORDINATES: similar to AA sequence:RefSeq:WP_017418653.1 locus_tag: NG745_18345 note: Derived by automated computational analysis using gene prediction method: Protein Homology. codon_start: 1 transl_table: 11 product: GNAT family N-acetyltransferase protein_id: USQ53539.1</Hit_def>
+  <Hit_accession>Subject_5582</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>312.768</Hsp_bit-score>
+      <Hsp_score>800</Hsp_score>
+      <Hsp_evalue>3.18057e-112</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>151</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>149</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>151</Hsp_align-len>
+      <Hsp_qseq>MDVRKEDVTAPDVFALLQDHLKSMTMHSPPESIHALNADRLRQPDVTFWSARENGILLGCGALKELNSRHGEIKSMKTFPHHVRKGVANRILRHMLEEARRRGYQRISLETSSMEAFLPARRLYEKAGFQYCDPFAHYKEDPNSLFMTLNI</Hsp_qseq>
+      <Hsp_hseq>MDVRKEDVTAPDVFALLQDHLKSMTMHSPPESIHALNADRLRQPDVTFWSARENGILLGCGALKELNSRHGEIKSMKTSPHHVRKGVANRILRHMLEEAKRRGYQRISLETGSMEAFLPARRLYEKAGFQYCDPFAHYKEDPNSLFMTLNI</Hsp_hseq>
+      <Hsp_midline>MDVRKEDVTAPDVFALLQDHLKSMTMHSPPESIHALNADRLRQPDVTFWSARENGILLGCGALKELNSRHGEIKSMKT PHHVRKGVANRILRHMLEEA+RRGYQRISLET SMEAFLPARRLYEKAGFQYCDPFAHYKEDPNSLFMTLNI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>0</Statistics_db-num>
+      <Statistics_db-len>0</Statistics_db-len>
+      <Statistics_hsp-len>79</Statistics_hsp-len>
+      <Statistics_eff-space>123360437</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

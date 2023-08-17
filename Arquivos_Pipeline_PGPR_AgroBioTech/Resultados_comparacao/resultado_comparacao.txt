@@ -1,0 +1,155 @@
+../Relatório de Comparação dos Genes do Banco de Dados AgroBioTech - Parte 1
+
+Comparação entre os Genomas LABIM22 e HNA3: 31
+{'trpD', 'trpA', 'slrR', 'trpE', 'sinR', 'speG', 'pksS', 'ymcA', 'trpF', 'bdhA', 'trpC', 'rpoN', 'crr', 'hfq', 'ysnE', 'flgM', 'tagA', 'ylbF', 'csrA', 'iolU', 'ywkB', 'acuC', 'luxS', 'alsR', 'ilvB', 'speE', 'msmX', 'dhaS', 'yhcX', 'cysE', 'trpB'}.
+
+Comparação entre os Genomas LABIM22 e LDO2: 40
+{'nasD', 'ktrC', 'narH', 'potA', 'speA', 'dhbE', 'moaA', 'nrgB', 'treA', 'ilvH', 'nrgA', 'narJ', 'moaE', 'narP', 'bdhA', 'corA', 'speB', 'mgtE', 'ktrA', 'narG', 'dhbF', 'ktrD', 'dhbB', 'ysnE', 'moaC', 'alsS', 'narI', 'treP', 'phy', 'nasE', 'dhbC', 'moaD', 'ilvB', 'dhbA', 'speE', 'dhaS', 'moaB', 'yhcX', 'treR', 'mdtJ'}.
+
+Comparação entre os Genomas LABIM22 e AG75: 44
+{'bcp', 'trpD', 'trpA', 'acoA', 'trpE', 'opuAB', 'sinR', 'ymcA', 'cspD', 'trpF', 'cspC', 'bdhA', 'trpC', 'tuaD', 'bltD', 'budA', 'rpoN', 'zwf', 'ywdH', 'hslR', 'cspB', 'bsaA', 'sigD', 'flgM', 'alsS', 'ylbF', 'ysnE', 'csrA', 'ywkB', 'treP', 'opuAC', 'opuAA', 'gdh', 'luxS', 'alsR', 'amhX', 'speE', 'phzF', 'groES', 'ycdF', 'bioI', 'groEL', 'treR', 'trpB'}.
+
+Comparação entre os Genomas LABIM22 e FZB42: 106
+{'ytmK', 'swrA', 'galT1', 'lacF', 'epsD', 'cspD', 'cspC', 'yycO', 'bglC', 'pgm', 'cspB', 'ecsA', 'ylbF', 'epsA', 'yurN', 'phy', 'hag', 'yurM', 'tufA', 'sigH', 'yurO', 'epsM', 'epsJ', 'ytmM', 'sinI', 'tasA', 'ysdC', 'ytmN', 'sfp', 'ecsC', 'sacB', 'ggt', 'ymcA', 'efp', 'epsL', 'epsK', 'yusV', 'yckJ', 'lacG', 'yhxB', 'lacR', 'yurR', 'fliD', 'galE1', 'swrB', 'yclQ', 'alsR', 'epsC', 'tuaA', 'yhfE', 'dhaS', 'sipW', 'bpr', 'yczE', 'sigW', 'yckK', 'xynP', 'epsB', 'yxeN', 'yckI', 'lacE', 'abrB', 'spo0A', 'cspR', 'epsO', 'yqxM', 'ecsB', 'yurL', 'ysnE', 'alsS', 'yfiQ', 'epsF', 'srfB', 'xynD', 'ycdH', 'srfC', 'yhcX', 'pel', 'yqeK', 'xynB', 'srfA', 'flgK', 'ganA', 'srfD', 'epsI', 'epsG', 'xynA', 'sinR', 'ytmL', 'yflE', 'galK1', 'csn', 'yvrC', 'resE', 'tpx', 'pta', 'bglS', 'tagO', 'sodA', 'yurK', 'epsH', 'epsN', 'epsE', 'lytS', 'yurJ', 'yurP'}.
+
+Comparação entre os Genomas LABIM40 e HNA3: 32
+{'trpD', 'trpA', 'slrR', 'trpE', 'wecB', 'sinR', 'speG', 'pksS', 'ymcA', 'trpF', 'bdhA', 'trpC', 'rpoN', 'crr', 'hfq', 'ysnE', 'flgM', 'tagA', 'ylbF', 'csrA', 'iolU', 'ywkB', 'acuC', 'luxS', 'alsR', 'ilvB', 'speE', 'msmX', 'dhaS', 'yhcX', 'cysE', 'trpB'}.
+
+Comparação entre os Genomas LABIM40 e LDO2: 40
+{'nasD', 'ktrC', 'narH', 'potA', 'speA', 'dhbE', 'moaA', 'nrgB', 'treA', 'ilvH', 'nrgA', 'narJ', 'moaE', 'narP', 'bdhA', 'corA', 'speB', 'mgtE', 'ktrA', 'narG', 'dhbF', 'ktrD', 'dhbB', 'ysnE', 'moaC', 'alsS', 'narI', 'treP', 'phy', 'nasE', 'dhbC', 'moaD', 'ilvB', 'dhbA', 'speE', 'dhaS', 'moaB', 'yhcX', 'treR', 'mdtJ'}.
+
+Comparação entre os Genomas LABIM40 e AG75: 45
+{'bcp', 'trpD', 'trpA', 'acoA', 'trpE', 'opuAB', 'wecB', 'sinR', 'ymcA', 'cspD', 'trpF', 'cspC', 'bdhA', 'trpC', 'tuaD', 'bltD', 'budA', 'rpoN', 'zwf', 'ywdH', 'hslR', 'cspB', 'bsaA', 'sigD', 'flgM', 'alsS', 'ylbF', 'ysnE', 'csrA', 'ywkB', 'treP', 'opuAC', 'opuAA', 'gdh', 'luxS', 'alsR', 'amhX', 'speE', 'phzF', 'groES', 'ycdF', 'bioI', 'groEL', 'treR', 'trpB'}.
+
+Comparação entre os Genomas LABIM40 e FZB42: 105
+{'ytmK', 'swrA', 'galT1', 'lacF', 'epsD', 'cspD', 'cspC', 'yycO', 'bglC', 'pgm', 'cspB', 'ecsA', 'ylbF', 'epsA', 'yurN', 'phy', 'hag', 'yurM', 'tufA', 'sigH', 'yurO', 'epsM', 'epsJ', 'ytmM', 'sinI', 'tasA', 'ysdC', 'ytmN', 'sfp', 'ecsC', 'sacB', 'ggt', 'ymcA', 'efp', 'epsL', 'epsK', 'yusV', 'yckJ', 'lacG', 'yhxB', 'lacR', 'yurR', 'fliD', 'galE1', 'swrB', 'yclQ', 'alsR', 'epsC', 'tuaA', 'yhfE', 'dhaS', 'sipW', 'bpr', 'yczE', 'sigW', 'yckK', 'xynP', 'epsB', 'yxeN', 'yckI', 'abrB', 'spo0A', 'cspR', 'epsO', 'yqxM', 'ecsB', 'yurL', 'ysnE', 'alsS', 'yfiQ', 'epsF', 'srfB', 'xynD', 'ycdH', 'srfC', 'yhcX', 'pel', 'yqeK', 'xynB', 'srfA', 'flgK', 'ganA', 'srfD', 'epsI', 'epsG', 'xynA', 'sinR', 'ytmL', 'yflE', 'galK1', 'csn', 'yvrC', 'resE', 'tpx', 'pta', 'bglS', 'tagO', 'sodA', 'yurK', 'epsH', 'epsN', 'epsE', 'lytS', 'yurJ', 'yurP'}.
+
+Comparação entre os Genomas LABIM44 e HNA3: 32
+{'trpD', 'trpA', 'slrR', 'trpE', 'wecB', 'sinR', 'speG', 'pksS', 'ymcA', 'trpF', 'bdhA', 'trpC', 'rpoN', 'crr', 'hfq', 'ysnE', 'flgM', 'tagA', 'ylbF', 'csrA', 'iolU', 'ywkB', 'acuC', 'luxS', 'alsR', 'ilvB', 'speE', 'msmX', 'dhaS', 'yhcX', 'cysE', 'trpB'}.
+
+Comparação entre os Genomas LABIM44 e LDO2: 40
+{'nasD', 'ktrC', 'narH', 'potA', 'speA', 'dhbE', 'moaA', 'nrgB', 'treA', 'ilvH', 'nrgA', 'narJ', 'moaE', 'narP', 'bdhA', 'corA', 'speB', 'mgtE', 'ktrA', 'narG', 'dhbF', 'ktrD', 'dhbB', 'ysnE', 'moaC', 'alsS', 'narI', 'treP', 'phy', 'nasE', 'dhbC', 'moaD', 'ilvB', 'dhbA', 'speE', 'dhaS', 'moaB', 'yhcX', 'treR', 'mdtJ'}.
+
+Comparação entre os Genomas LABIM44 e AG75: 45
+{'bcp', 'trpD', 'trpA', 'acoA', 'trpE', 'opuAB', 'wecB', 'sinR', 'ymcA', 'cspD', 'trpF', 'cspC', 'bdhA', 'trpC', 'tuaD', 'bltD', 'budA', 'rpoN', 'zwf', 'ywdH', 'hslR', 'cspB', 'bsaA', 'sigD', 'flgM', 'alsS', 'ylbF', 'ysnE', 'csrA', 'ywkB', 'treP', 'opuAC', 'opuAA', 'gdh', 'luxS', 'alsR', 'amhX', 'speE', 'phzF', 'groES', 'ycdF', 'bioI', 'groEL', 'treR', 'trpB'}.
+
+Comparação entre os Genomas LABIM44 e FZB42: 104
+{'ytmK', 'swrA', 'galT1', 'lacF', 'epsD', 'cspD', 'cspC', 'yycO', 'bglC', 'pgm', 'cspB', 'ecsA', 'ylbF', 'epsA', 'yurN', 'phy', 'hag', 'yurM', 'tufA', 'sigH', 'yurO', 'epsM', 'epsJ', 'ytmM', 'sinI', 'tasA', 'ysdC', 'ytmN', 'sfp', 'ecsC', 'sacB', 'ggt', 'ymcA', 'efp', 'epsL', 'epsK', 'yusV', 'yckJ', 'lacG', 'yhxB', 'lacR', 'yurR', 'fliD', 'galE1', 'swrB', 'yclQ', 'alsR', 'epsC', 'tuaA', 'yhfE', 'dhaS', 'sipW', 'bpr', 'yczE', 'sigW', 'yckK', 'xynP', 'epsB', 'yxeN', 'yckI', 'abrB', 'spo0A', 'cspR', 'epsO', 'yqxM', 'ecsB', 'yurL', 'ysnE', 'alsS', 'yfiQ', 'epsF', 'srfB', 'xynD', 'ycdH', 'yhcX', 'yqeK', 'pel', 'xynB', 'srfA', 'flgK', 'ganA', 'srfD', 'epsI', 'epsG', 'xynA', 'sinR', 'ytmL', 'yflE', 'galK1', 'csn', 'yvrC', 'resE', 'tpx', 'pta', 'bglS', 'tagO', 'sodA', 'yurK', 'epsH', 'epsN', 'epsE', 'lytS', 'yurJ', 'yurP'}.
+
+
+
+Relatório de Comparação dos Genes do Banco de Dados AgroBioTech - Parte 2
+
+Comparação entre os Genomas HNA3 e LDO2: 7
+{'ilvB', 'speE', 'ysnE', 'bdhA', 'dhaS', 'yhcX', 'alsD'}.
+
+Comparação entre os Genomas HNA3 e AG75: 19
+{'trpD', 'trpA', 'trpE', 'wecB', 'sinR', 'ymcA', 'trpF', 'bdhA', 'trpC', 'rpoN', 'flgM', 'ysnE', 'ylbF', 'csrA', 'ywkB', 'luxS', 'alsR', 'speE', 'trpB'}.
+
+Comparação entre os Genomas HNA3 e FZB42: 8
+{'sinR', 'alsR', 'ysnE', 'ymcA', 'ylbF', 'dhaS', 'yhcX', 'alsD'}.
+
+Comparação entre os Genomas LDO2 e HNA3: 7
+{'ilvB', 'speE', 'ysnE', 'bdhA', 'dhaS', 'yhcX', 'alsD'}.
+
+Comparação entre os Genomas LDO2 e AG75: 6
+{'speE', 'treR', 'ysnE', 'alsS', 'bdhA', 'treP'}.
+
+Comparação entre os Genomas LDO2 e FZB42: 6
+{'ysnE', 'alsS', 'dhaS', 'yhcX', 'alsD', 'phy'}.
+
+Comparação entre os Genomas AG75 e HNA3: 19
+{'trpD', 'trpA', 'trpE', 'wecB', 'sinR', 'ymcA', 'trpF', 'bdhA', 'trpC', 'rpoN', 'flgM', 'ysnE', 'ylbF', 'csrA', 'ywkB', 'luxS', 'alsR', 'speE', 'trpB'}.
+
+Comparação entre os Genomas AG75 e LDO2: 6
+{'speE', 'treR', 'ysnE', 'alsS', 'bdhA', 'treP'}.
+
+Comparação entre os Genomas AG75 e FZB42: 9
+{'sinR', 'cspB', 'alsR', 'ysnE', 'ymcA', 'cspD', 'alsS', 'cspC', 'ylbF'}.
+
+Comparação entre os Genomas FZB42 e HNA3: 8
+{'sinR', 'alsR', 'ysnE', 'ymcA', 'ylbF', 'dhaS', 'yhcX', 'alsD'}.
+
+Comparação entre os Genomas FZB42 e LDO2: 6
+{'ysnE', 'alsS', 'dhaS', 'yhcX', 'alsD', 'phy'}.
+
+Comparação entre os Genomas FZB42 e AG75: 9
+{'sinR', 'cspB', 'alsR', 'ysnE', 'ymcA', 'cspD', 'alsS', 'cspC', 'ylbF'}.
+
+
+
+Comparação entre os Genomas HNA3, LDO2 e AG75: 3
+{'speE', 'bdhA', 'ysnE'}.
+
+Comparação entre os Genomas HNA3, LDO2 e FZB42: 4
+{'yhcX', 'alsD', 'dhaS', 'ysnE'}.
+
+Comparação entre os Genomas HNA3, AG75 e LDO2: 3
+{'speE', 'bdhA', 'ysnE'}.
+
+Comparação entre os Genomas HNA3, AG75 e FZB42: 5
+{'alsR', 'sinR', 'ysnE', 'ymcA', 'ylbF'}.
+
+Comparação entre os Genomas HNA3, FZB42 e LDO2: 4
+{'yhcX', 'alsD', 'dhaS', 'ysnE'}.
+
+Comparação entre os Genomas HNA3, FZB42 e AG75: 5
+{'alsR', 'sinR', 'ysnE', 'ymcA', 'ylbF'}.
+
+Comparação entre os Genomas LDO2, HNA3 e AG75: 3
+{'bdhA', 'speE', 'ysnE'}.
+
+Comparação entre os Genomas LDO2, HNA3 e FZB42: 4
+{'yhcX', 'alsD', 'dhaS', 'ysnE'}.
+
+Comparação entre os Genomas LDO2, AG75 e HNA3: 3
+{'bdhA', 'speE', 'ysnE'}.
+
+Comparação entre os Genomas LDO2, AG75 e FZB42: 2
+{'alsS', 'ysnE'}.
+
+Comparação entre os Genomas LDO2, FZB42 e HNA3: 4
+{'yhcX', 'alsD', 'dhaS', 'ysnE'}.
+
+Comparação entre os Genomas LDO2, FZB42 e AG75: 2
+{'alsS', 'ysnE'}.
+
+Comparação entre os Genomas AG75, HNA3 e LDO2: 3
+{'speE', 'bdhA', 'ysnE'}.
+
+Comparação entre os Genomas AG75, HNA3 e FZB42: 5
+{'alsR', 'sinR', 'ysnE', 'ymcA', 'ylbF'}.
+
+Comparação entre os Genomas AG75, LDO2 e HNA3: 3
+{'speE', 'bdhA', 'ysnE'}.
+
+Comparação entre os Genomas AG75, LDO2 e FZB42: 2
+{'alsS', 'ysnE'}.
+
+Comparação entre os Genomas AG75, FZB42 e HNA3: 5
+{'alsR', 'sinR', 'ysnE', 'ymcA', 'ylbF'}.
+
+Comparação entre os Genomas AG75, FZB42 e LDO2: 2
+{'alsS', 'ysnE'}.
+
+Comparação entre os Genomas FZB42, HNA3 e LDO2: 4
+{'yhcX', 'alsD', 'dhaS', 'ysnE'}.
+
+Comparação entre os Genomas FZB42, HNA3 e AG75: 5
+{'alsR', 'sinR', 'ysnE', 'ymcA', 'ylbF'}.
+
+Comparação entre os Genomas FZB42, LDO2 e HNA3: 4
+{'yhcX', 'alsD', 'dhaS', 'ysnE'}.
+
+Comparação entre os Genomas FZB42, LDO2 e AG75: 2
+{'alsS', 'ysnE'}.
+
+Comparação entre os Genomas FZB42, AG75 e HNA3: 5
+{'alsR', 'sinR', 'ysnE', 'ymcA', 'ylbF'}.
+
+Comparação entre os Genomas FZB42, AG75 e LDO2: 2
+{'alsS', 'ysnE'}.
+
+Comparação entre os Genomas HNA3, AG75, LDO2 e FZB42: 1
+{'ysnE'}.
+
