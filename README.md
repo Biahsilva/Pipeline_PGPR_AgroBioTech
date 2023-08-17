@@ -35,8 +35,9 @@ Observações:
 ### Fluxograma do Pipeline 
 
 <div align="center">
-<img src="https://github.com/Biahsilva/Pipeline_PGPR_AgroBioTech/assets/102994978/31816e3b-24c8-4209-8a0a-b713338fa801.png" width="600px" /> 
+<img src="https://github.com/Biahsilva/Pipeline_PGPR_AgroBioTech/assets/102994978/a21b62c7-017f-47ef-84d3-3414ee33cf81.png" width="600px" /> 
 </div>
+
 
 
 
