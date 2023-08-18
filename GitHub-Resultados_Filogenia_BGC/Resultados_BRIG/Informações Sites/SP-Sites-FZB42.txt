@@ -1,0 +1,15 @@
+#START	STOP	LABEL	COLOUR
+322723	387582	surfactin	red
+721674	744851	plantazolicin	red
+940739	981983	butirosin	red
+1067608	1084837	regiao4	blue
+1371897	1458282	macrolactin	red
+1681811	1782413	bacillaene	red
+1851544	1988981	fengycin	red
+2014219	2036102	regiao8	blue
+2102588	2143688	regiao9	blue
+2272481	2366270	difficidin	red
+2854634	2904147	bacillothiazol	red
+3001255	3053043	bacillibactin	red
+3576272	3617690	bacilysin	red
+

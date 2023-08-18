@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BRIG blastOptions="" legendPosition="upper-right" queryFile="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\hna3.fasta" outputFolder="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Resultados_Brig\ResultadosBRIG7Cepas" blastPlus="yes" outputFile="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Resultados_Brig\ResultadosBRIG7Cepas\hna3.fasta" title="Bacillus velezensis HNA3" imageFormat="jpg" queryFastaFile="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\hna3.fasta" cgXML="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Resultados_Brig\ResultadosBRIG7Cepas\scratch\hna3.fasta.xml">
+  <cgview_settings arrowheadLength="medium" backboneColor="black" backboneRadius="600" backboneThickness="medium" backgroundColor="white" borderColor="black" featureSlotSpacing="medium" featureThickness="30" giveFeaturePositions="false" globalLabel="true" height="2500" isLinear="false" labelFont="SansSerif,plain,50" labelLineLength="medium" labelLineThickness="medium" labelPlacementQuality="best" labelsToKeep="1000" longTickColor="black" minimumFeatureLength="medium" moveInnerLabelsToOuter="true" origin="12" rulerFont="SansSerif,plain,35" rulerFontColor="black" rulerPadding="40" rulerUnits="bases" shortTickColor="black" shortTickThickness="medium" showBorder="false" showShading="true" showWarning="false" tickDensity="0.2333" tickThickness="medium" titleFont="SansSerif,plain,45" titleFontColor="black" useColoredLabelBackgrounds="false" useInnerLabels="true" warningFont="Default,plain,35" warningFontColor="black" width="2500" zeroTickColor="black" tickLength="medium" />
+  <brig_settings Ring1="172,14,225" Ring2="222,149,220" Ring3="161,221,231" Ring4="49,34,221" Ring5="116,152,226" Ring6="224,206,38" Ring7="40,191,140" Ring8="158,223,139" Ring9="226,38,122" Ring10="211,41,77" defaultUpper="70" defaultLower="50" defaultMinimum="50" genbankFiles="gbk,gb,genbank" fastaFiles="fna,faa,fas,fasta,fa" emblFiles="embl" blastLocation="" divider="3" multiplier="3" memory="1500" defaultSpacer="0" />
+  <special value="GC Content" />
+  <special value="GC Skew" />
+  <refDir location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA">
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\ag75.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\cla178.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\fzb42.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\hna3.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\labim22.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\labim40.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\labim44.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\ldo2.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\qst713.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\rz2ms9.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\s141.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\sc60.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\srq9.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\th-1.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\ucmb5113.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\ucmb5140.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\wrn014.fasta" />
+    <refFile location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\yyc.fasta" />
+  </refDir>
+  <ring position="3" colour="0,102,102" name="Bacillus velezensis HNA3" upperInt="70" lowerInt="50" legend="yes" size="30" labels="no" blastType="blastn">
+    <sequence location="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Genomas-FASTA\hna3.fasta" blastResults="C:\Users\ALISSON\Dropbox\PPGBIOINFO_Dissertacao\Resultados_Brig\ResultadosBRIG7Cepas\scratch\hna3.fastaVshna3.fasta.tab" />
+    <feature label="cysE" colour="black" decoration="arc">
+      <featureRange start="113355" stop="114009" label="113355" />
+    </feature>
+    <feature label="speG" colour="black" decoration="arc">
+      <featureRange start="556600" stop="557128" label="556600" />
+    </feature>
+    <feature label="bdhA" colour="black" decoration="arc">
+      <featureRange start="624183" stop="625224" label="624183" />
+    </feature>
+    <feature label="yhcX" colour="black" decoration="arc">
+      <featureRange start="910579" stop="912118" label="910579" />
+    </feature>
+    <feature label="ylbF" colour="black" decoration="arc">
+      <featureRange start="1494334" stop="1494784" label="1494334" />
+    </feature>
+    <feature label="fliA" colour="black" decoration="arc">
+      <featureRange start="1641192" stop="1641957" label="1641192" />
+    </feature>
+    <feature label="ymcA" colour="black" decoration="arc">
+      <featureRange start="1702543" stop="1702975" label="1702543" />
+    </feature>
+    <feature label="pksS" colour="black" decoration="arc">
+      <featureRange start="1781124" stop="1782336" label="1781124" />
+    </feature>
+    <feature label="hfq" colour="black" decoration="arc">
+      <featureRange start="1790415" stop="1790637" label="1790415" />
+    </feature>
+    <feature label="dhaS" colour="black" decoration="arc">
+      <featureRange start="2037044" stop="2038532" label="2037044" />
+    </feature>
+    <feature label="phy" colour="black" decoration="arc">
+      <featureRange start="2090868" stop="2092020" label="2090868" />
+    </feature>
+    <feature label="crr" colour="black" decoration="arc">
+      <featureRange start="2151987" stop="2152494" label="2151987" />
+    </feature>
+    <feature label="trpA" colour="black" decoration="arc">
+      <featureRange start="2187853" stop="2188651" label="2187853" />
+    </feature>
+    <feature label="trpB" colour="black" decoration="arc">
+      <featureRange start="2188643" stop="2189846" label="2188643" />
+    </feature>
+    <feature label="trpF" colour="black" decoration="arc">
+      <featureRange start="2189826" stop="2190480" />
+    </feature>
+    <feature label="trpC" colour="black" decoration="arc">
+      <featureRange start="2190484" stop="2191237" label="2190484" />
+    </feature>
+    <feature label="trpD" colour="black" decoration="arc">
+      <featureRange start="2191229" stop="2192246" label="2191229" />
+    </feature>
+    <feature label="trpE" colour="black" decoration="arc">
+      <featureRange start="2192217" stop="2193765" label="2192217" />
+    </feature>
+    <feature label="sinR" colour="black" decoration="arc">
+      <featureRange start="2435833" stop="2436169" label="2435833" />
+    </feature>
+    <feature label="ilvB" colour="black" decoration="arc">
+      <featureRange start="2678308" stop="2680033" label="2678308" />
+    </feature>
+    <feature label="acuC" colour="black" decoration="arc">
+      <featureRange start="2828010" stop="2829177" label="2828010" />
+    </feature>
+    <feature label="luxS" colour="black" decoration="arc">
+      <featureRange start="2906229" stop="2906703" label="2906229" />
+    </feature>
+    <feature label="iolU" colour="black" decoration="arc">
+      <featureRange start="2942675" stop="2943662" label="2942675" />
+    </feature>
+    <feature label="rpoN" colour="black" decoration="arc">
+      <featureRange start="3273710" stop="3275024" label="3273710" />
+    </feature>
+    <feature label="slrR" colour="black" decoration="arc">
+      <featureRange start="3291287" stop="3291743" />
+    </feature>
+    <feature label="csrA" colour="black" decoration="arc">
+      <featureRange start="3385668" stop="3385893" label="3385668" />
+    </feature>
+    <feature label="flgM" colour="black" decoration="arc">
+      <featureRange start="3389966" stop="3390233" label="3389966" />
+    </feature>
+    <feature label="wecB" colour="black" decoration="arc">
+      <featureRange start="3413806" stop="3414946" label="3413806" />
+    </feature>
+    <feature label="tagA" colour="black" decoration="arc">
+      <featureRange start="3423321" stop="3424092" label="3423321" />
+    </feature>
+    <feature label="alsD" colour="black" decoration="arc">
+      <featureRange start="3454936" stop="3455704" label="3454936" />
+    </feature>
+    <feature label="alsR" colour="black" decoration="arc">
+      <featureRange start="3457633" stop="3458542" label="3457633" />
+    </feature>
+    <feature label="ywkB" colour="black" decoration="arc">
+      <featureRange start="3542975" stop="3543932" label="3542975" />
+    </feature>
+    <feature label="speE" colour="black" decoration="arc">
+      <featureRange start="3583934" stop="3584764" label="3583934" />
+    </feature>
+    <feature label="ysnE" colour="black" decoration="arc">
+      <featureRange start="3654761" stop="3655220" label="3654761" />
+    </feature>
+    <feature label="msmX" colour="black" decoration="arc">
+      <featureRange start="3726833" stop="3727934" label="3726833" />
+    </feature>
+  </ring>
+  <ring colour="225,0,0" name="GC Skew" position="2" upperInt="70" lowerInt="50" legend="yes" size="30" labels="no" blastType="blastn">
+    <sequence location="GC Skew" />
+  </ring>
+  <ring colour="225,0,0" name="GC Content" position="1" upperInt="70" lowerInt="50" legend="yes" size="30" labels="no" blastType="blastn">
+    <sequence location="GC Content" />
+  </ring>
+  <ring colour="225,0,0" name="Agrupamentos BGCs" position="0" upperInt="70" lowerInt="50" legend="yes" size="30" labels="no" blastType="blastn">
+    <feature label="Surfactin" colour="red" decoration="arc">
+      <featureRange start="323406" stop="387383" label="323406" />
+    </feature>
+    <feature label="Butirosin" colour="red" decoration="arc">
+      <featureRange start="924042" stop="965286" label="924042" />
+    </feature>
+    <feature label="Regiao3" colour="blue" decoration="arc">
+      <featureRange start="1050165" stop="1067573" label="1050165" />
+    </feature>
+    <feature label="Regiao4" colour="blue" decoration="arc">
+      <featureRange start="1188553" stop="1217440" label="1188553" />
+    </feature>
+    <feature label="Macrolactin " colour="red" decoration="arc">
+      <featureRange start="1384047" stop="1471873" label="1384047" />
+    </feature>
+    <feature label="Bacillaene" colour="red" decoration="arc">
+      <featureRange start="1691394" stop="1791959" label="1691394" />
+    </feature>
+    <feature label="Fengycin" colour="red" decoration="arc">
+      <featureRange start="1865682" stop="1999991" label="1865682" />
+    </feature>
+    <feature label="Regiao8" colour="blue" decoration="arc">
+      <featureRange start="2028629" stop="2050512" label="2028629" />
+    </feature>
+    <feature label="Regiao9" colour="blue" decoration="arc">
+      <featureRange start="2113830" stop="2154930" label="2113830" />
+    </feature>
+    <feature label="Difficidin" colour="red" decoration="arc">
+      <featureRange start="2282301" stop="2376092" label="2282301" />
+    </feature>
+    <feature label="Bacillibactin" colour="red" decoration="arc">
+      <featureRange start="3000753" stop="3052541" label="3000753" />
+    </feature>
+    <feature label="Bacilysin" colour="red" decoration="arc">
+      <featureRange start="3588840" stop="3630258" label="3588840" />
+    </feature>
+  </ring>
+</BRIG>
+
